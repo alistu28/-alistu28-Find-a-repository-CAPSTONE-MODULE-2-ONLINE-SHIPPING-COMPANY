@@ -6,7 +6,7 @@ Dalam proyek ini, saya akan memposisikan diri saya sebagai data analis di sebuah
 
 Saya akan menjawab pertanyaan yang diajukan oleh perusahaan, membuat cerita dan visualisasi, serta menyajikan _insight_ dari analisis yang dapat digunakan sebagai pemangku kepentingan untuk membuat keputusan bisnis.
 
-Tableau Story Link : [Here]
+Tableau Story Link : [Here](https://public.tableau.com/app/profile/alifia.listu.samatha/viz/OnlineRetailShipping/Story1?publish=yes)
 
 ## Latar Belakang
 
